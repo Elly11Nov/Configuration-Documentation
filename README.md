@@ -48,7 +48,7 @@ See [`gateways-api-reference.md`](samples/gateways-api-reference.md).
 
 An archived professional documentation sample demonstrating reference documentation for a UI component, including parameters, types, descriptions and usage information.
 
-See [`textarea-component-reference.pdf`](samples/textarea-component-reference.pdf).
+See [`textarea-component-reference.md`](samples/textarea-component-reference.md).
 
 ## My role
 
