@@ -1,10 +1,6 @@
-# API Documentation
+# Configuration & Technical Documentation
 
-##Configuration & Technical Documentation Sample
-
-A sanitised documentation sample based on real-world technical writing for a voice application configuration system.
-
-The project demonstrates how technical information can be structured into clear, developer-focused documentation, including configuration reference material, JSON examples, parameter definitions and task-oriented guidance.
+A portfolio sample demonstrating technical documentation for complex software systems, including configuration reference material, task-oriented guidance, REST API documentation and structured parameter reference.
 
 ## What's included
 
@@ -14,44 +10,52 @@ A structured reference for configuring a voice application through a JSON config
 
 The documentation covers:
 
-* JSON configuration structure
-* Configuration parameters
-* Data types and required fields
-* Supported language and locale values
+* Configuration structure
+* Parameters and data types
+* Required and optional values
 * Nested configuration objects
 * Resource configuration
-* Parameter constraints and dependencies
-* Configuration and deployment workflow
+* Configuration constraints and dependencies
+* Configuration workflow
+
+See [`configuration-reference.md`](configuration-reference.md).
 
 ### Configuration Tutorial
 
-A task-oriented guide showing how a developer can create and configure an application using the documented configuration structure.
+A task-oriented guide showing how to create and configure a basic voice application using the documented configuration structure.
 
-The tutorial focuses on taking the reader from an empty configuration file through to a complete example.
+See [`configuration-tutorial.md`](configuration-tutorial.md).
 
-## Documentation approach
+## Documentation Samples
 
-This sample demonstrates several core technical writing practices:
+### REST API Reference
 
-* Organising complex technical information into logical sections
-* Separating conceptual, procedural and reference information
-* Using structured parameter tables
-* Providing realistic JSON examples
-* Explaining dependencies and constraints
-* Writing for a developer audience
-* Turning implementation knowledge into usable documentation
+A portfolio-safe reconstruction of a REST API reference documenting the **Gateways** endpoint.
+
+It demonstrates:
+
+* REST endpoint documentation
+* HTTP method and request parameters
+* Data types and required values
+* Default values
+* JSON response structure
+* Error documentation
+* Request and response examples
+
+See [`gateways-api-reference.md`](samples/gateways-api-reference.md).
+
+### Component Reference
+
+An archived professional documentation sample demonstrating reference documentation for a UI component, including parameters, types, descriptions and usage information.
+
+See [`textarea-component-reference.pdf`](samples/textarea-component-reference.pdf).
 
 ## My role
 
-Technical writing, information architecture, API/configuration documentation, content structure, examples and developer-focused instructional content.
+Technical writing, information architecture, API and configuration documentation, reference design, examples, instructional content and developer-focused documentation.
 
-## Source and sanitisation
+## Approach
 
-This repository contains a sanitised reconstruction based on documentation produced in a professional software environment.
+The samples demonstrate how complex technical information can be transformed into structured, task-oriented documentation that helps developers understand, configure and use software systems.
 
-Company names, product names, infrastructure details, resource paths and other implementation-specific information have been removed or replaced. The technical structure has been retained or reconstructed where appropriate to demonstrate the documentation approach without exposing proprietary information.
-
-## Portfolio context
-
-This work sample forms part of my technical documentation portfolio and complements examples covering information architecture, requirements analysis, AI-assisted workflows and process documentation.
-
+Some samples are reconstructed or adapted for portfolio purposes, with identifying information and original system details replaced or generalised where appropriate.
