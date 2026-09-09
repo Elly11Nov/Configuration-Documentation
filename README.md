@@ -1,6 +1,6 @@
 # API Documentation
 
-## Configuration API Documentation Sample
+##Configuration & Technical Documentation Sample
 
 A sanitised documentation sample based on real-world technical writing for a voice application configuration system.
 
