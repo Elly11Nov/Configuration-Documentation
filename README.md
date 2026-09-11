@@ -17,15 +17,13 @@ The documentation covers:
 * Resource configuration
 * Configuration constraints and dependencies
 * Configuration workflow
-
-See [`configuration-reference.md`](configuration-reference.md).
+See [configuration-reference.md](docs/configuration-reference.md)
 
 ### Configuration Tutorial
 
 A task-oriented guide showing how to create and configure a basic voice application using the documented configuration structure.
 
-See [configuration-reference.md](docs/configuration-reference.md)
-
+[configuration-tutorial.md](docs/configuration-tutorial.md)
 
 
 ## Documentation Samples
