@@ -43,13 +43,13 @@ It demonstrates:
 * Error documentation
 * Request and response examples
 
-See[Gateways API Reference](docs/samples/Gateways%20API%20Reference.pdf).
+See  [Gateways API Reference](docs/samples/Gateways%20API%20Reference.pdf).
 
 ### Component Reference
 
 An archived professional documentation sample demonstrating reference documentation for a UI component, including parameters, types, descriptions and usage information.
 
-See [`textarea-component-reference.md`](samples/textarea-component-reference.md).
+See [TextArea Component Reference](docs/samples/Tag%20Name%20-%20TextArea%20(2).pdf).
 
 ## My role
 
