@@ -17,6 +17,7 @@ The documentation covers:
 * Resource configuration
 * Configuration constraints and dependencies
 * Configuration workflow
+
 See [configuration-reference.md](docs/configuration-reference.md)
 
 ### Configuration Tutorial
