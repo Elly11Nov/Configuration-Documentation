@@ -43,7 +43,7 @@ It demonstrates:
 * Error documentation
 * Request and response examples
 
-See [`gateways-api-reference.md`](samples/gateways-api-reference.md).
+See[Gateways API Reference](docs/samples/Gateways%20API%20Reference.pdf).
 
 ### Component Reference
 
